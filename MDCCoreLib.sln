@@ -11,6 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDCCoreMVC", "MDCCoreMVC\MD
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{9E264ECC-58DB-4108-AA0E-23F13E96C2DD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SlideDeck", "SlideDeck", "{B1B01BBA-8E1A-4E3A-B7E3-C80608D11F3B}"
+	ProjectSection(SolutionItems) = preProject
+		MDC17-NET Core 2.pdf = MDC17-NET Core 2.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
